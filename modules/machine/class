@@ -2,6 +2,7 @@ This is the Class for the PIN
 
 classmachine.Pin(id, mode=- 1, pull=- 1, *, value=None, drive=0, alt=- 1)
 
+https://docs.micropython.org/en/latest/library/machine.Pin.html
 
 USAGE
 
